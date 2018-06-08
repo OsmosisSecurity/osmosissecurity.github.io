@@ -87,4 +87,4 @@ To put it into further perspective and as an example, the PCI DSS has a three ye
 
 *Getting her start with phones and computers at the early age of 6, Kat put fear of success and failure aside to start Osmosis Security, a boutique security firm supporting her vision of what the professional hacker community should be focused on.*
 
-*If you have questions about recruiting for compliance roles, please [drop us a line](mailto:contact@osmosissecurity.com) and we would be happy to discuss your specific environment and needs.*
+*If you have questions about recruiting for compliance roles (or anything else!), please [drop us a line](mailto:contact@osmosissecurity.com) and we would be happy to discuss your specific environment and needs.*
