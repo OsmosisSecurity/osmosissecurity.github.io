@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Group Photo](/assets/group_photo.jpg)
+![Group Photo](/assets/group_photo.jpg){: style="border:2px solid black; padding:2px"}
 
 Osmosis Security is a boutique information security and compliance firm dedicated to providing clients with expertise, integrity, and respect. We specialize in compliance and security advisory for merchants, service providers and industry-disrupting products.
 
@@ -17,7 +17,7 @@ Custom policy writing
 
 ## Expertise:
 
-![Expertise](/assets/expertise.jpg)
+![Expertise](/assets/expertise.jpg){: style="border:2px solid black; padding:2px"}
 
 We specialize in providing creative solutions to your security and compliance concerns. We provide myriad penetration testing, gap analysis, reverse engineering and risk assessment services for startups to fortune 500 companies. Osmosis Security is uniquely positioned with specialized expertise to work within on-prem, data center and cloud architecture (AWS, GCP & Azure). We advocate for you with your auditors, explaining how your cloud architecture and security controls meet compliance standards, using language and concepts learned from years as active auditors ourselves.
 
@@ -25,7 +25,7 @@ We serve the tech community in San Francisco, CA. Our clients are experts themse
 
 ## Integrity:
 
-![Password Post-its](/assets/password_post_its.jpg)
+![Password Post-its](/assets/password_post_its.jpg){: style="border:2px solid black; padding:2px"}
 
 Osmosis Security is committed to being honest to a fault and accountable for all projects we’ve committed to. We actively seek out clients who are committed to improving their security posture and not just checking the boxes to get their compliance paperwork in order.
 
@@ -33,7 +33,7 @@ The Osmosis team is comprised of individuals who have demonstrated immense amoun
 
 ## Respect:
 
-![Respect](/assets/respect.jpg)
+![Respect](/assets/respect.jpg){: style="border:2px solid black; padding:2px"}
 
 Osmosis Security respects our clients’ business and security goals.  We work collaboratively with all teams within your organization, supporting and guiding your security and compliance efforts.
 
@@ -43,7 +43,7 @@ Finally, Osmosis Security recognizes and respects the social positions, opinions
 
 ## Location:
 
-![Golden Gate Bridge](/assets/golden_gate_bridge.jpg)
+![Golden Gate Bridge](/assets/golden_gate_bridge.jpg){: style="border:2px solid black; padding:2px"}
 
 Osmosis Security, LLC is located in the San Francisco Bay Area -- the heart of innovation, technical expertise, and creativity.
 
@@ -57,4 +57,6 @@ Kat had humble beginnings and started her career working technical support for C
 
 ### Randy Will: Principle Consultant & Reverse Engineer
 
-<img src="/assets/randy.jpg" style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"/> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Randy](/assets/randy.jpg){: style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"} Randy got started in information security in the late 90's when a friend introduced him to "this Linux thing" he had recently discovered.  Like Kat, Randy started his career at a local dial-up ISP.  He studied Biomedical Engineering at Marquette and spent a couple years as the primary technologist for a rehabilitation research center.  In more recent times, Randy spent a few years as a QSA/PA-QSA focused on emerging payment applications before joining Amazon Web Services to help improve enterprise and startup engagement and satisfaction.
+
+Nowadays, Randy has recently exited an information security startup after a $300M sale and spends most of his time taking things apart, measuring and documenting components and products, designing cost effective DIY IoT systems, maintaining some Linux device drivers, and diving into newly enforced compliance standards like GDPR.

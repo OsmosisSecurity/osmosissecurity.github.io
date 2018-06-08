@@ -80,3 +80,11 @@ To put it into further perspective and as an example, the PCI DSS has a three ye
 5. If they claim they’re a GDPR expert, they likely aren’t. Everyone is being challenged by GDPR, and it’s too new for anyone to be an expert (with some very rare exceptions).
 
 6. Someone who has both internal and external (auditor/consultant) experience will be extremely beneficial for a startup. They can tell you what to expect from an external auditor, and have previous experience working internal to an organization.
+
+---
+
+<img src="/assets/kat.jpg" style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"/>
+
+*Getting her start with phones and computers at the early age of 6, Kat put fear of success and failure aside to start Osmosis Security, a boutique security firm supporting her vision of what the professional hacker community should be focused on.*
+
+*If you have questions about recruiting for compliance roles, please [drop us a line](mailto:contact@osmosissecurity.com) and we would be happy to discuss your specific environment and needs.*
