@@ -20,7 +20,7 @@ Osmosis Security is a boutique information security and compliance firm dedicate
 
 ![Expertise](/assets/expertise.jpg){: style="border:2px solid black; padding:2px"}
 
-We specialize in providing creative solutions to your security and compliance concerns. We provide myriad penetration testing, gap analysis, reverse engineering and risk assessment services for startups to fortune 500 companies. Osmosis Security is uniquely positioned with specialized expertise to work within on-prem, data center and cloud architecture (AWS, GCP & Azure). We advocate for you with your auditors, explaining how your cloud architecture and security controls meet compliance standards, using language and concepts learned from years as active auditors ourselves.
+We specialize in providing creative solutions to your security and compliance concerns. We provide myriad penetration testing, gap analysis, reverse engineering and risk assessment services for startups to Fortune 500 companies. Osmosis Security is uniquely positioned with specialized expertise to work within on-prem, data center and cloud architecture (AWS, GCP & Azure). We advocate for you with your auditors, explaining how your cloud architecture and security controls meet compliance standards, using language and concepts learned from years as active auditors ourselves.
 
 We serve the tech community in San Francisco, CA. Our clients are experts themselves, so when they need help, they engage with proven experts. The startups of today are the Fortune 500/100 companies of tomorrow, and Osmosis Security is the security consultancy that guides 40+ major Bay Area companies.
 
@@ -50,13 +50,13 @@ Osmosis Security, LLC is located in the San Francisco Bay Area -- the heart of i
 
 ## Founders:
 
-### Kat Valentine-Will: Principle Compliance & Security Consultant
+### Kat Valentine-Will: Principal Compliance & Security Consultant
 
 <img src="/assets/kat.jpg" style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"/>Getting her start with phones and computers at the early age of 6, Kat decided to put fear of success and failure aside to start Osmosis Security, a boutique security firm that supported her vision of what the professional hacker community should be focused on.
 
 Kat had humble beginnings and started her career working technical support for Cybergate, a dial-up ISP in Miami, FL in 1998. Since then, Kat Valentine worked in many different roles, and is experienced with implementing, testing, and supporting diverse client LAN/WAN environments; deploying a wide array of Cisco hardware and security technologies’ and performing PCI-DSS assessments as a certified Approved Scanning Vendor/Qualified Security Assessor, security researcher, and forensic analyst. She applies that knowledge as a member of Osmosis Security’s Compliance & Security team where she performs risk assessments, gap assessments with compliance frameworks like GDPR, SOC 2, HIPAA and PCI, penetration testing, and evaluates infrastructure, applications, and network assets for adherence to security best practices and compliance requirements.
 
-### Randy Will: Principle Consultant & Reverse Engineer
+### Randy Will: Principal Consultant & Reverse Engineer
 
 ![Randy](/assets/randy.jpg){: style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"} Randy got started in information security in the late 90's when a friend introduced him to "this Linux thing" he had recently discovered.  Like Kat, Randy started his career at a local dial-up ISP.  He studied Biomedical Engineering at Marquette and spent a couple years as the primary technologist for a rehabilitation research center.  In more recent times, Randy spent a few years as a QSA/PA-QSA focused on emerging payment applications before joining Amazon Web Services to help improve enterprise and startup engagement and satisfaction.
 
