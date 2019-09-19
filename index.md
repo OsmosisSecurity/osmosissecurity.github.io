@@ -50,11 +50,13 @@ Osmosis Security, LLC is located in the San Francisco Bay Area -- the heart of i
 
 ## Founders:
 
-### Kat Valentine-Will: Principal Compliance & Security Consultant
+### Kat Valentine: Principal Compliance & Security Consultant
 
 <img src="/assets/kat.jpg" style="border:0.25em solid black; float: left; width: 100px; padding: 0.25em; margin-right: 1em; margin-top: 0.5em"/>Getting her start with phones and computers at the early age of 6, Kat decided to put fear of success and failure aside to start Osmosis Security, a boutique security firm that supported her vision of what the professional hacker community should be focused on.
 
-Kat had humble beginnings and started her career working technical support for Cybergate, a dial-up ISP in Miami, FL in 1998. Since then, Kat Valentine worked in many different roles, and is experienced with implementing, testing, and supporting diverse client LAN/WAN environments; deploying a wide array of Cisco hardware and security technologies’ and performing PCI-DSS assessments as a certified Approved Scanning Vendor/Qualified Security Assessor, security researcher, and forensic analyst. She applies that knowledge as a member of Osmosis Security’s Compliance & Security team where she performs risk assessments, gap assessments with compliance frameworks like GDPR, SOC 2, HIPAA and PCI, penetration testing, and evaluates infrastructure, applications, and network assets for adherence to security best practices and compliance requirements.
+Kat had humble beginnings and started her career working technical support for a local dial-up ISP in 1998. Since then, Kat  worked in many different roles, and is experienced with implementing, testing, and supporting diverse client LAN/WAN environments; deploying a wide array of Cisco hardware and security technologies’ and performing PCI-DSS assessments as a certified Approved Scanning Vendor/Qualified Security Assessor, security researcher, and forensic analyst. She applies that knowledge as a member of Osmosis Security’s Compliance & Security team where she performs risk assessments, gap assessments with compliance frameworks like GDPR, SOC 2, HIPAA and PCI, penetration testing, and evaluates infrastructure, applications, and network assets for adherence to security best practices and compliance requirements. 
+
+In her spare time, Kat has designed the first hack/phreak shoeline, (https://www.phreakersneaker.com) [Phreaker Sneaker].
 
 ### Randy Will: Principal Consultant & Reverse Engineer
 
