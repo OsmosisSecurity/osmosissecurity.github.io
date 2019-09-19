@@ -56,7 +56,7 @@ Osmosis Security, LLC is located in the San Francisco Bay Area -- the heart of i
 
 Kat had humble beginnings and started her career working technical support for a local dial-up ISP in 1998. Since then, Kat  worked in many different roles, and is experienced with implementing, testing, and supporting diverse client LAN/WAN environments; deploying a wide array of Cisco hardware and security technologies’ and performing PCI-DSS assessments as a certified Approved Scanning Vendor/Qualified Security Assessor, security researcher, and forensic analyst. She applies that knowledge as a member of Osmosis Security’s Compliance & Security team where she performs risk assessments, gap assessments with compliance frameworks like GDPR, SOC 2, HIPAA and PCI, penetration testing, and evaluates infrastructure, applications, and network assets for adherence to security best practices and compliance requirements. 
 
-In her spare time, Kat has designed the first hack/phreak shoeline, [PhreakerSneaker](https://phreakersneaker.com).
+In her spare time, Kat has designed the first hack/phreak shoeline, the [PhreakerSneaker](https://phreakersneaker.com).
 
 ### Randy Will: Principal Consultant & Reverse Engineer
 
